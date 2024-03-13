@@ -1,0 +1,258 @@
+[INFO] 15:11:17:461 client.c/(6297:6297): Hola! Soy un log
+[INFO] 15:11:17:464 client.c/(6297:6297): Hola! Soy un log
+[INFO] 15:13:00:903 client.c/(6428:6428): Hola! Soy un log
+[INFO] 15:13:00:909 client.c/(6428:6428): Hola! Soy un log
+[INFO] 15:35:02:518 client.c/(6698:6698): Hola! Soy un log
+[INFO] 15:35:02:528 client.c/(6698:6698): Hola! Soy un log
+[INFO] 15:35:02:528 client.c/(6698:6698): ð¤J{ÖU
+[INFO] 15:35:22:205 client.c/(6743:6743): Hola! Soy un log
+[INFO] 15:35:22:206 client.c/(6743:6743): Hola! Soy un log
+[INFO] 15:35:24:552 client.c/(6743:6743): hola
+[INFO] 15:35:41:926 client.c/(6785:6785): Hola! Soy un log
+[INFO] 15:35:41:926 client.c/(6785:6785): Hola! Soy un log
+[INFO] 15:35:45:420 client.c/(6785:6785): hola
+[INFO] 15:35:48:959 client.c/(6785:6785): chau
+[INFO] 15:35:54:032 client.c/(6785:6785): free
+[INFO] 16:07:41:013 client.c/(7731:7731): Hola! Soy un log
+[INFO] 16:07:41:016 client.c/(7731:7731): valor
+[INFO] 16:37:09:063 client.c/(8675:8675): Hola! Soy un log
+[INFO] 16:37:09:068 client.c/(8675:8675): valor
+[INFO] 17:04:26:735 client.c/(9764:9764): Hola! Soy un log
+[INFO] 17:04:26:763 client.c/(9764:9764): valor
+[INFO] 18:05:22:670 client.c/(12290:12290): Hola! Soy un log
+[INFO] 18:05:22:672 client.c/(12290:12290): valor
+[INFO] 18:05:26:654 client.c/(12290:12290): hola
+[INFO] 18:06:38:614 client.c/(12360:12360): Hola! Soy un log
+[INFO] 18:06:38:618 client.c/(12360:12360): valor
+[INFO] 18:09:24:084 client.c/(12443:12443): Hola! Soy un log
+[INFO] 18:09:24:099 client.c/(12443:12443): valor
+[INFO] 18:09:27:793 client.c/(12443:12443): a
+[INFO] 18:12:19:002 client.c/(12443:12443): Handshaking fallo entre cliente y servidor. Conexion rechazada
+[INFO] 18:17:37:601 client.c/(12981:12981): Hola! Soy un log
+[INFO] 18:17:37:607 client.c/(12981:12981): valor
+[INFO] 18:17:40:934 client.c/(12981:12981): hola
+[INFO] 18:17:41:650 client.c/(12981:12981): Handshaking fallo entre cliente y servidor. Conexion rechazada
+[INFO] 18:18:39:781 client.c/(13017:13017): Hola! Soy un log
+[INFO] 18:18:39:782 client.c/(13017:13017): valor
+[INFO] 18:32:40:120 client.c/(13220:13220): Hola! Soy un log
+[INFO] 18:32:40:130 client.c/(13220:13220): valor
+[INFO] 18:33:27:530 client.c/(13309:13309): Hola! Soy un log
+[INFO] 18:33:27:534 client.c/(13309:13309): valor
+[INFO] 18:35:33:170 client.c/(13431:13431): Hola! Soy un log
+[INFO] 18:35:33:174 client.c/(13431:13431): valor
+[INFO] 18:35:44:908 client.c/(13431:13431): hola
+[INFO] 18:35:52:349 client.c/(13431:13431): Handshaking fallo entre cliente y servidor. Conexion rechazada
+[INFO] 18:37:32:882 client.c/(13653:13653): Hola! Soy un log
+[INFO] 18:37:32:883 client.c/(13653:13653): valor
+[INFO] 18:37:39:303 client.c/(13653:13653): hola
+[INFO] 18:37:40:418 client.c/(13653:13653): Handshaking fallo entre cliente y servidor. Conexion rechazada
+[INFO] 20:33:21:526 client.c/(15171:15171): Hola! Soy un log
+[INFO] 20:33:21:529 client.c/(15171:15171): valor
+[INFO] 20:33:44:136 client.c/(15171:15171): hola
+[INFO] 20:33:45:334 client.c/(15171:15171): a
+[INFO] 20:33:45:828 client.c/(15171:15171): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 20:46:02:537 client.c/(15701:15701): Hola! Soy un log
+[INFO] 20:46:02:559 client.c/(15701:15701): valor
+[INFO] 20:47:29:360 client.c/(15701:15701): hola
+[INFO] 20:47:30:745 client.c/(15701:15701): holaa
+[INFO] 20:47:31:361 client.c/(15701:15701): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 20:54:10:604 client.c/(15993:15993): Hola! Soy un log
+[INFO] 20:54:10:608 client.c/(15993:15993): valor
+[INFO] 20:54:13:306 client.c/(15993:15993): a
+[INFO] 20:54:46:521 client.c/(16103:16103): Hola! Soy un log
+[INFO] 20:54:46:540 client.c/(16103:16103): valor
+[INFO] 20:56:36:886 client.c/(16289:16289): Hola! Soy un log
+[INFO] 20:56:36:891 client.c/(16289:16289): valor
+[INFO] 20:56:39:318 client.c/(16303:16303): Hola! Soy un log
+[INFO] 20:56:39:318 client.c/(16303:16303): valor
+[INFO] 20:56:42:699 client.c/(16303:16303): a
+[INFO] 20:56:44:093 client.c/(16303:16303): 
+[INFO] 20:56:44:939 client.c/(16303:16303): 
+[INFO] 20:56:46:207 client.c/(16303:16303): 
+[INFO] 20:57:12:899 client.c/(16421:16421): Hola! Soy un log
+[INFO] 20:57:12:900 client.c/(16421:16421): valor
+[INFO] 20:57:15:421 client.c/(16421:16421): a
+[INFO] 20:57:16:806 client.c/(16421:16421): b
+[ERROR] 20:57:17:299 client.c/(16421:16421): Error al conectar el socket
+[ERROR] 20:57:17:299 client.c/(16421:16421): No se pudo conectar al servidor
+[INFO] 21:36:08:615 client.c/(18217:18217): Hola! Soy un log
+[INFO] 21:36:08:617 client.c/(18217:18217): valor
+[INFO] 21:36:20:276 client.c/(18217:18217): hola
+[INFO] 21:36:24:482 client.c/(18217:18217): a
+[INFO] 21:36:25:384 client.c/(18217:18217): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 21:43:22:705 client.c/(18523:18523): Hola! Soy un log
+[INFO] 21:43:22:707 client.c/(18523:18523): valor
+[INFO] 21:43:35:851 client.c/(18523:18523): a
+[INFO] 21:44:09:360 client.c/(18523:18523): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 21:45:44:475 client.c/(18699:18699): Hola! Soy un log
+[INFO] 21:45:44:480 client.c/(18699:18699): valor
+[INFO] 21:46:06:351 client.c/(18699:18699): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 21:51:27:152 client.c/(19234:19234): Hola! Soy un log
+[INFO] 21:51:27:157 client.c/(19234:19234): valor
+[INFO] 21:51:29:921 client.c/(19234:19234): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 21:53:21:727 client.c/(19326:19326): Hola! Soy un log
+[INFO] 21:53:21:732 client.c/(19326:19326): valor
+[INFO] 21:53:33:935 client.c/(19326:19326): a
+[INFO] 21:53:34:451 client.c/(19326:19326): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 21:56:58:513 client.c/(19493:19493): Hola! Soy un log
+[INFO] 21:56:58:517 client.c/(19493:19493): valor
+[INFO] 22:03:23:252 client.c/(20030:20030): Hola! Soy un log
+[INFO] 22:03:23:263 client.c/(20030:20030): valor
+[INFO] 22:03:30:147 client.c/(20030:20030): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:00:51:471 client.c/(21197:21197): Hola! Soy un log
+[INFO] 23:00:51:479 client.c/(21197:21197): valor
+[INFO] 23:00:57:686 client.c/(21197:21197): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:02:56:103 client.c/(21232:21232): Hola! Soy un log
+[INFO] 23:02:56:109 client.c/(21232:21232): valor
+[INFO] 23:03:49:719 client.c/(21232:21232): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:12:47:908 client.c/(21581:21581): Hola! Soy un log
+[INFO] 23:12:47:913 client.c/(21581:21581): valor
+[INFO] 23:14:21:183 client.c/(21581:21581): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:18:27:804 client.c/(21910:21910): Hola! Soy un log
+[INFO] 23:18:27:808 client.c/(21910:21910): valor
+[INFO] 23:19:27:820 client.c/(21910:21910): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:21:22:113 client.c/(22224:22224): Hola! Soy un log
+[INFO] 23:21:22:128 client.c/(22224:22224): valor
+[INFO] 23:21:24:326 client.c/(22224:22224): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:22:39:450 client.c/(22335:22335): Hola! Soy un log
+[INFO] 23:22:39:452 client.c/(22335:22335): valor
+[INFO] 23:22:45:107 client.c/(22335:22335): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:25:31:914 client.c/(22485:22485): Hola! Soy un log
+[INFO] 23:25:31:925 client.c/(22485:22485): valor
+[INFO] 23:25:33:265 client.c/(22485:22485): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 17:40:22:635 client.c/(3073:3073): Hola! Soy un log
+[INFO] 17:40:22:640 client.c/(3073:3073): valor
+[INFO] 17:42:42:034 client.c/(3073:3073): hola
+[INFO] 17:42:42:518 client.c/(3073:3073): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 17:43:11:460 client.c/(3251:3251): Hola! Soy un log
+[INFO] 17:43:11:464 client.c/(3251:3251): valor
+[INFO] 17:43:33:713 client.c/(3251:3251): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 17:44:11:400 client.c/(3333:3333): Hola! Soy un log
+[INFO] 17:44:11:403 client.c/(3333:3333): valor
+[INFO] 17:44:31:625 client.c/(3333:3333): a
+[INFO] 17:44:31:999 client.c/(3333:3333): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 17:44:43:987 client.c/(3390:3390): Hola! Soy un log
+[INFO] 17:44:43:987 client.c/(3390:3390): valor
+[INFO] 17:44:55:283 client.c/(3390:3390): a
+[INFO] 17:44:55:674 client.c/(3390:3390): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 17:45:32:891 client.c/(3507:3507): Hola! Soy un log
+[INFO] 17:45:32:893 client.c/(3507:3507): valor
+[INFO] 17:45:36:173 client.c/(3507:3507): a
+[INFO] 17:45:36:572 client.c/(3507:3507): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 17:46:48:284 client.c/(3601:3601): Hola! Soy un log
+[INFO] 17:46:48:284 client.c/(3601:3601): valor
+[INFO] 17:48:34:096 client.c/(3601:3601): a
+[INFO] 17:48:34:504 client.c/(3601:3601): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 17:49:36:267 client.c/(3703:3703): Hola! Soy un log
+[INFO] 17:49:36:267 client.c/(3703:3703): valor
+[INFO] 17:50:06:181 client.c/(3703:3703): a
+[INFO] 17:50:06:625 client.c/(3703:3703): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 17:50:48:661 client.c/(3762:3762): Hola! Soy un log
+[INFO] 17:50:48:662 client.c/(3762:3762): valor
+[INFO] 17:51:08:101 client.c/(3762:3762): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 17:57:00:358 client.c/(4099:4099): Hola! Soy un log
+[INFO] 17:57:00:359 client.c/(4099:4099): valor
+[INFO] 17:58:18:810 client.c/(4099:4099): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 18:00:41:034 client.c/(4450:4450): Hola! Soy un log
+[INFO] 18:00:41:036 client.c/(4450:4450): valor
+[INFO] 18:00:56:061 client.c/(4450:4450): a
+[INFO] 18:00:56:405 client.c/(4450:4450): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 18:03:00:861 client.c/(4553:4553): Hola! Soy un log
+[INFO] 18:03:00:869 client.c/(4553:4553): valor
+[INFO] 18:03:18:400 client.c/(4553:4553): a
+[INFO] 18:03:18:632 client.c/(4553:4553): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 18:17:16:223 client.c/(5055:5055): Hola! Soy un log
+[INFO] 18:17:16:230 client.c/(5055:5055): valor
+[INFO] 18:18:07:685 client.c/(5055:5055): a
+[INFO] 18:18:08:101 client.c/(5055:5055): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 21:37:32:174 client.c/(6720:6720): Hola! Soy un log
+[INFO] 21:37:32:177 client.c/(6720:6720): valor
+[INFO] 21:37:33:608 client.c/(6720:6720): a
+[INFO] 21:37:34:112 client.c/(6720:6720): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 21:38:28:941 client.c/(6800:6800): Hola! Soy un log
+[INFO] 21:38:28:944 client.c/(6800:6800): valor
+[INFO] 21:38:30:398 client.c/(6800:6800): a
+[INFO] 21:38:30:723 client.c/(6800:6800): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:15:51:406 client.c/(7508:7508): Hola! Soy un log
+[INFO] 22:15:51:414 client.c/(7508:7508): valor
+[ERROR] 22:15:51:415 client.c/(7508:7508): Error al conectar el socket
+[ERROR] 22:15:51:415 client.c/(7508:7508): No se pudo conectar al servidor
+[INFO] 22:16:06:537 client.c/(7583:7583): Hola! Soy un log
+[INFO] 22:16:06:541 client.c/(7583:7583): valor
+[INFO] 22:16:06:541 client.c/(7583:7583): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:17:07:541 client.c/(7627:7627): Hola! Soy un log
+[INFO] 22:17:07:541 client.c/(7627:7627): valor
+[ERROR] 22:17:07:541 client.c/(7627:7627): Error al conectar el socket
+[ERROR] 22:17:07:541 client.c/(7627:7627): No se pudo conectar al servidor
+[INFO] 22:17:16:532 client.c/(7684:7684): Hola! Soy un log
+[INFO] 22:17:16:532 client.c/(7684:7684): valor
+[INFO] 22:17:16:536 client.c/(7684:7684): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:18:47:898 client.c/(7758:7758): Hola! Soy un log
+[INFO] 22:18:47:901 client.c/(7758:7758): valor
+[ERROR] 22:18:47:901 client.c/(7758:7758): Error al conectar el socket
+[ERROR] 22:18:47:901 client.c/(7758:7758): No se pudo conectar al servidor
+[INFO] 22:20:14:844 client.c/(7815:7815): Hola! Soy un log
+[INFO] 22:20:14:845 client.c/(7815:7815): valor
+[INFO] 22:20:14:846 client.c/(7815:7815): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:27:08:820 client.c/(7967:7967): Hola! Soy un log
+[INFO] 22:27:08:836 client.c/(7967:7967): valor
+[INFO] 22:27:08:837 client.c/(7967:7967): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:34:46:533 client.c/(8122:8122): Hola! Soy un log
+[INFO] 22:34:46:535 client.c/(8122:8122): valor
+[INFO] 22:34:46:536 client.c/(8122:8122): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:38:07:767 client.c/(8342:8342): Hola! Soy un log
+[INFO] 22:38:07:769 client.c/(8342:8342): valor
+[INFO] 22:38:07:770 client.c/(8342:8342): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:41:30:763 client.c/(8511:8511): Hola! Soy un log
+[INFO] 22:41:30:765 client.c/(8511:8511): valor
+[ERROR] 22:41:30:766 client.c/(8511:8511): Error al conectar el socket
+[ERROR] 22:41:30:766 client.c/(8511:8511): No se pudo conectar al servidor
+[INFO] 22:41:45:791 client.c/(8585:8585): Hola! Soy un log
+[INFO] 22:41:45:792 client.c/(8585:8585): valor
+[INFO] 22:41:45:792 client.c/(8585:8585): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:43:39:252 client.c/(8682:8682): Hola! Soy un log
+[INFO] 22:43:39:255 client.c/(8682:8682): valor
+[INFO] 22:43:39:257 client.c/(8682:8682): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:45:21:881 client.c/(8763:8763): Hola! Soy un log
+[INFO] 22:45:21:888 client.c/(8763:8763): valor
+[ERROR] 22:45:21:888 client.c/(8763:8763): Error al conectar el socket
+[ERROR] 22:45:21:888 client.c/(8763:8763): No se pudo conectar al servidor
+[INFO] 22:45:39:832 client.c/(8820:8820): Hola! Soy un log
+[INFO] 22:45:39:835 client.c/(8820:8820): valor
+[INFO] 22:45:39:836 client.c/(8820:8820): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:47:33:837 client.c/(8917:8917): Hola! Soy un log
+[INFO] 22:47:33:842 client.c/(8917:8917): valor
+[INFO] 22:47:33:842 client.c/(8917:8917): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:50:13:425 client.c/(9040:9040): Hola! Soy un log
+[INFO] 22:50:13:435 client.c/(9040:9040): valor
+[ERROR] 22:50:13:435 client.c/(9040:9040): Error al conectar el socket
+[ERROR] 22:50:13:435 client.c/(9040:9040): No se pudo conectar al servidor
+[INFO] 22:50:24:403 client.c/(9104:9104): Hola! Soy un log
+[INFO] 22:50:24:404 client.c/(9104:9104): valor
+[INFO] 22:50:24:404 client.c/(9104:9104): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:52:38:843 client.c/(9338:9338): Hola! Soy un log
+[INFO] 22:52:38:852 client.c/(9338:9338): valor
+[INFO] 22:52:38:853 client.c/(9338:9338): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:55:55:631 client.c/(9536:9536): Hola! Soy un log
+[INFO] 22:55:55:632 client.c/(9536:9536): valor
+[INFO] 22:55:55:632 client.c/(9536:9536): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 22:59:47:017 client.c/(9716:9716): Hola! Soy un log
+[INFO] 22:59:47:019 client.c/(9716:9716): valor
+[INFO] 22:59:47:020 client.c/(9716:9716): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:02:16:004 client.c/(9850:9850): Hola! Soy un log
+[INFO] 23:02:16:005 client.c/(9850:9850): valor
+[ERROR] 23:02:16:006 client.c/(9850:9850): Error al conectar el socket
+[ERROR] 23:02:16:006 client.c/(9850:9850): No se pudo conectar al servidor
+[INFO] 23:02:38:394 client.c/(9939:9939): Hola! Soy un log
+[INFO] 23:02:38:394 client.c/(9939:9939): valor
+[INFO] 23:02:38:395 client.c/(9939:9939): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:02:50:855 client.c/(9939:9939): a
+[INFO] 23:04:32:391 client.c/(10085:10085): Hola! Soy un log
+[INFO] 23:04:32:392 client.c/(10085:10085): valor
+[ERROR] 23:04:32:392 client.c/(10085:10085): Error al conectar el socket
+[ERROR] 23:04:32:392 client.c/(10085:10085): No se pudo conectar al servidor
+[INFO] 23:05:20:933 client.c/(10170:10170): Hola! Soy un log
+[INFO] 23:05:20:938 client.c/(10170:10170): valor
+[INFO] 23:05:20:941 client.c/(10170:10170): Handshaking okey entre cliente y servidor. Conexion aceptada
+[INFO] 23:05:38:961 client.c/(10170:10170): a
+[INFO] 23:05:39:692 client.c/(10170:10170): b
